@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\komba\\Desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj": {}
+    "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\komba\\Desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj": {
+    "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\komba\\Desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\komba\\Desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\komba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\komba\\Desktop\\itdev-162-online\\emmanuel-komba\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\komba\\AppData\\Roaming\\NuGet\\NuGet.Config"
