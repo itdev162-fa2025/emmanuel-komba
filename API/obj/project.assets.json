@@ -1696,11 +1696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\API\\API.csproj",
+      "projectPath": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\API\\API.csproj",
       "packagesPath": "C:\\Users\\komba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\API\\obj\\",
+      "outputPath": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\komba\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1715,8 +1715,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Application\\Application.csproj"
+            "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\Application\\Application.csproj"
             }
           }
         }

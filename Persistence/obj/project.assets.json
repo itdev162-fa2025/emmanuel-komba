@@ -2556,11 +2556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\komba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\komba\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2575,8 +2575,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\komba\\desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj"
+            "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\Domain\\Domain.csproj"
             }
           }
         }
