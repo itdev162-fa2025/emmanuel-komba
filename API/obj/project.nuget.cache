@@ -1,6 +1,10 @@
 {
   "version": 2,
+
+  "dgSpecHash": "gG15V2cFU4s=",
+
   "dgSpecHash": "eveXOPBkMIs=",
+
   "success": true,
   "projectFilePath": "C:\\Users\\komba\\OneDrive\\Desktop\\itdev-162-online\\emmanuel-komba\\API\\API.csproj",
   "expectedPackageFiles": [
