@@ -60,7 +60,7 @@ namespace API.Controllers
 
             throw new Exception("Error creating post");
         }
-
+        //ok
         [HttpPut(name = "Update")]
         public ActionResult<Post> Update([FromBody]PostsController request)
         {
