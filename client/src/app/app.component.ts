@@ -12,12 +12,20 @@ import { CommonModule } from '@angular/common';
 })
 export class AppComponent implements OnInit {
   title = 'client';
+
   posts: any;
 
+
+
+  posts: any;
   constructor(private http: HttpClient) {
 
   }
   ngOnInit(): void {
+
+
+
+
     this.http.get('http://localhost:5289/api/posts').subscribe({
       next: (response) => this.posts = response,
       error: (e) => console.error(e),
