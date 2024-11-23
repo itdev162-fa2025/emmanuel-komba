@@ -11,7 +11,7 @@ using Persistence;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20241012155045_CreatePostsTable")]
+    [Migration("20240930191323_CreatePostsTable")]
     partial class CreatePostsTable
     {
         /// <inheritdoc />
@@ -54,7 +54,7 @@ namespace Persistence.Migrations
                     b.Property<string>("Summary")
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("temperatureC")
+                    b.Property<int>("TemperatureC")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
