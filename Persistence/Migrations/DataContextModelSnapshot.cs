@@ -51,7 +51,7 @@ namespace Persistence.Migrations
                     b.Property<string>("Summary")
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("temperatureC")
+                    b.Property<int>("TemperatureC")
                         .HasColumnType("INTEGER");
 
                     b.HasKey("Id");

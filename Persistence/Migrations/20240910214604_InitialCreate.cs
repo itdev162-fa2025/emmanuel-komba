@@ -18,7 +18,7 @@ namespace Persistence.Migrations
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
                     Date = table.Column<DateOnly>(type: "TEXT", nullable: false),
-                    temperatureC = table.Column<int>(type: "INTEGER", nullable: false),
+                    TemperatureC = table.Column<int>(type: "INTEGER", nullable: false),
                     Summary = table.Column<string>(type: "TEXT", nullable: true)
                 },
                 constraints: table =>
